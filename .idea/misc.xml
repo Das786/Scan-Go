@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/back_arrrow.xml" value="0.12962962962962962" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/bg_main.xml" value="0.2203125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/bg_red_corner.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/button_bg.xml" value="0.2203125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/buynow_bg.xml" value="0.12685185185185185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/check.xml" value="0.2203125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/copy.xml" value="0.125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/dash_bg_option.xml" value="0.1287037037037037" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/edit_text_stroke.xml" value="0.11203703703703703" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/gradient.xml" value="0.15" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/header_bg.xml" value="0.1287037037037037" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.12685185185185185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/ic_baseline_minus_24.xml" value="0.12685185185185185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/incre_bg.xml" value="0.1259259259259259" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/logout.xml" value="0.125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/profile.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/qrcode.xml" value="0.2203125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/shape.xml" value="0.12685185185185185" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/drawable/shopping_cart.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/activity_addproduct_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/activity_admin_dash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/activity_fragment_logout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/activity_onboarding_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/activity_orderdetails.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/activity_payment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/activity_payment_failed.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/activity_payment_section.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/activity_payment_success.xml" value="0.18" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/activity_productlist.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/activity_scanner_view.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/activity_showproduct_admin.xml" value="0.16757246376811594" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/cart_product_list.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/fragment_cart.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/fragment_dashboard.xml" value="0.18" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/fragment_logout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/fragment_product.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/fragment_profile.xml" value="0.16" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/gradient.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/item_payment.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/items_products.xml" value="0.43847874720357943" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/list_row.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/my_cart_items.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/my_rows.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/onboard_slide_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/layout/orderdetails_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/menu/bottom_menu_na.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/menu/bottom_nav_menu.xml" value="0.16" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ScanandGo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2169230769230769" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

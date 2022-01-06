@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".customer.Payment_Section">
+
+    <TextView
+        android:id="@+id/paymentheading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="25dp"
+        android:fontFamily="@font/poppins"
+        android:padding="10dp"
+        android:text="Choose the payment gateway"
+        android:textColor="@color/dark_red"
+        android:textSize="23sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <LinearLayout
+        android:id="@+id/codlinear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        app:layout_constraintTop_toBottomOf="@+id/paymentheading">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/dark_red"
+            android:padding="25dp">
+
+            <CheckBox
+                android:id="@+id/codpayment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/white"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cash on Delivery"
+                android:textAlignment="textStart"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="2dp"
+                android:fontFamily="@font/poppins"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="23sp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/codimage"/>
+
+
+
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        app:layout_constraintTop_toBottomOf="@+id/codlinear">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/dark_red"
+            android:padding="25dp">
+
+            <CheckBox
+                android:id="@+id/codpayment2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/white" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pay with Razorpay"
+                android:textAlignment="textStart"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="2dp"
+                android:fontFamily="@font/poppins"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:layout_marginRight="5dp"
+                android:textSize="23sp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/razorpay"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/buttonpay"
+        android:background="@drawable/button_bg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:text="Pay Now"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/paymentback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/buttonpay"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="60dp"
+        android:paddingRight="60dp"
+        android:text="Back"
+        android:textColor="@color/white"
+        android:fontFamily="@font/poppins"
+        android:background="@drawable/button_bg"
+        />
+
+    <TextView
+        android:id="@+id/CartPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="50dp"
+        android:textSize="30sp"
+        android:textColor="@color/black"
+        android:text="PRICE"
+        app:layout_constraintTop_toBottomOf="@+id/paymentback"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

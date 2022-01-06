@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250252611520",
+    "firebase_url": "https://dass-9900.firebaseio.com",
+    "project_id": "dass-9900",
+    "storage_bucket": "dass-9900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250252611520:android:de6a2d4bfbaad8ca0c8225",
+        "android_client_info": {
+          "package_name": "com.example.scanandgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250252611520-hkjebgbv7pdfln2go4or3bkkcu3qpf3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpyjPJPcNvr1zx9yeGLo4_PR2Phf7tdOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250252611520-2llcc2k4qk9ojjopkc9vtrrf3anpns03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
