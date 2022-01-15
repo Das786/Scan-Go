@@ -2,3 +2,5 @@
 Frontend: Java, XML
 Backend: Firebase
 Design: Figma
+
+Sample Screenshot
